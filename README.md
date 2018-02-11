@@ -1,2 +1,2 @@
 # eggplant-brownie
-iOS project from a course
+Código do curso *[Carreira Desenvolvedor Apple Mobile iOS](https://cursos.alura.com.br/career/desenvolvedor-ios)*
